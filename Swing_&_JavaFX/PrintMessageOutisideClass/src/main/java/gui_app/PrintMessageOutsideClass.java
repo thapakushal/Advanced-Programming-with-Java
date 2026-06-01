@@ -7,8 +7,8 @@ import javax.swing.JButton;
 public class PrintMessageOutsideClass{
     JFrame frame;
     JButton click_btn;
-    // constructor 
-    PrintMessageOutsideClass(){
+    // constructor y 
+   PrintMessageOutsideClass(){
         frame = new JFrame();
         frame.setTitle("Just Click Me");
         frame.setSize(400,400);
