@@ -1,0 +1,19 @@
+[33m6b83521[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m Added RMI Architecture String Operations and with GUI
+[33m74d12ad[m Add SocketProgramming pom.xml and update .gitignore
+[33m27ee072[m Update README.md
+[33m27b4dca[m Create todo.java
+[33m59893df[m Fix socket programming errors in FirstClient and FirstServer
+[33mdb5209c[m Revert accidental changes in Swing_&_JavaFX
+[33mc204943[m Border Layout Example with multiple event handling
+[33m215581e[m Event Handling - Outside class (event listner and handler method)
+[33m973e877[m Anonymous Class Implementation or Inside class Anonymously
+[33m594bdfc[m Anonymous Class Implementation or Inside class Anonymously
+[33m4625e00[m Event Handling Within Class - PrintMessage
+[33mf579dda[m Event Handling using Anynomous Class
+[33md1d277a[m Class Level Implementation Approach
+[33ma245dbc[m Revise README
+[33m687b9eb[m Remove .idea folder and add it to gitignore
+[33mf59beee[m Initialize repo with Swing GUI project
+[33m540048c[m Remove Future Systems Engineering section from README
+[33m0c581f0[m Enhance README with course and project information
+[33m41d0e2f[m Initial commit
