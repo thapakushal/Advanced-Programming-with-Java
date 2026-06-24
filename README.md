@@ -22,9 +22,7 @@ This index tracks my progress against the official university curriculum milesto
 ### 🗲 Completed Fundamentals & UI Systems
 * [x] **Unit 1 & 2: OOP & Core Architecture** — Classpaths, Object instantiation, Custom Exception Handling structures, and Java Collections Framework abstractions.
 * [x] **Unit 3: Graphical Component Engineering** — Structural layouts, Frame containers, and AWT/Swing interface listener architectures.
-
-### ⏳ Future Systems Engineering (Upcoming Term Load)
-* [ ] **Unit 4: Distributed Network Infrastructure** — Multi-threaded Client-Server interaction utilizing TCP/UDP Socket bindings, custom RMI (Remote Method Invocation) configurations, and CORBA architectures.
+* [x] **Unit 4: Distributed Network Infrastructure** — Multi-threaded Client-Server interaction utilizing TCP/UDP Socket bindings, custom RMI (Remote Method Invocation) configurations, and CORBA architectures.
 * [ ] **Unit 5: Enterprise Database Integration (JDBC)** — Persistence management layers via structural JDBC Drivers, stateful SQL statement parsing, prevention of SQL Injection vulnerabilities via `PreparedStatement`, and atomic transaction commits.
 * [ ] **Unit 6: Java Web Architectures (Servlets & JSP)** — Lifecycle control loops for Web Servlets, asynchronous HTTP request handling (GET/POST), dynamic view composition with JavaServer Pages, and state persistence with session-bound Cookies.
 * [ ] **Unit 7: Advanced Cloud Frameworks** — Object-Relational Mapping (ORM) design patterns using Hibernate, Dependency Injection configurations using Spring Boot, and critical safe concurrency optimizations.
